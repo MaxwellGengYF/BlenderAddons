@@ -1,0 +1,7 @@
+compute
+SDKs
+build
+xmake/options.lua
+.xmake
+.vscode/*.*
+!.vscode/settings.json
